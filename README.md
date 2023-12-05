@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/rafaelvbdemelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCVcul-oAuwfqkB2BsmtxIjg"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-Platane/snk/svg-only@v3
+![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg) 
 
 </div>
