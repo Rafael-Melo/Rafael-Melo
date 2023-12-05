@@ -23,6 +23,12 @@
   <a href="https://www.linkedin.com/in/rafaelvbdemelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCVcul-oAuwfqkB2BsmtxIjg"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Rafael-Melo/Rafael-Melo/blob/output/github-contribution-grid-snake.svg)
+  - uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 </div>
